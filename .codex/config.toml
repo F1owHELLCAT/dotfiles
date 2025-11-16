@@ -1,0 +1,8 @@
+model = "gpt-5.1-codex"
+model_reasoning_effort = "high"
+[projects."/home/u3sound"]
+trust_level = "trusted"
+network_access = true
+
+[features]
+web_search_request = true
